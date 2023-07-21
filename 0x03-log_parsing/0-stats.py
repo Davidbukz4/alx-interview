@@ -12,6 +12,7 @@ stat = {
     '405': 0, '500': 0
 }
 
+
 def disp_stat():
     ''' prints log metrics '''
     print('File size: {}'.format(file_size))
